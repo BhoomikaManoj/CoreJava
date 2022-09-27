@@ -1,0 +1,26 @@
+Do this after you do the IO Lab:
+
+Common IO problems for which we need to know programming for:
+1) WAP to read all content of a text file, given a path and then
+print to the monitor
+2) WAP to take a search string and path as input and then print
+all the lines, line numbers of the lines that contain the search string.
+3) WAP to read a file that contains one word per line and display
+it in sorted manner
+4) WAP to edit a given input with another in a given path
+5) A file contains student info. Each line contains 1 student info
+in this format name:dob:email:std:rank. Create a java menu
+program to give the ability to the user to a) insert student records
+b) search c) remove student d) list students based on sorting
+by i) name ii) dob iii) rank
+6) WAP to search all occ and replace it with another given the inputs
+7) WAP to search for all occ of a given string, given a path(could be
+a folder too)
+8) WAP to search for a given string, replace it with another only
+if it is a full word
+9) A file contains huge numbers (could be decimal as well) per line.
+Find the average of the numbers.
+10) Replace the contents of a file with the same content but in 
+sorted manner. Remove duplicates.
+
+
