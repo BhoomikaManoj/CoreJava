@@ -1,0 +1,4 @@
+abc,22-4-1996,abc@gmail.com,98765456789,5
+Bhoomika,21-4-1995,Bhoomika@gmail.com,9876543210,2
+Manoj,29-1-1993,Manoj@gmail.com,9876567890,1
+
